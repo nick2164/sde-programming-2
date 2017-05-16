@@ -1,0 +1,44 @@
+﻿body {
+    background-image: url('Images/night-sky-stars.gif');
+}
+
+
+.contents {
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 1080px;
+    background-color: whitesmoke;
+}
+
+.bodyText {
+    margin: 1px 30px;
+    padding-bottom: 30px;
+}
+
+/* Jeg har lånt lidt kode herfra, bare for udsendets skyld:
+   https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_black */
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menu li {
+    float: left;
+}
+
+    .menu li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        .menu li a:hover {
+            background-color: #111;
+        }

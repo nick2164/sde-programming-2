@@ -1,0 +1,86 @@
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\csc.exe
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\csc.exe.config
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\csc.rsp
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\csi.exe
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\csi.rsp
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\System.AppContext.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\vbc.exe
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\vbc.exe.config
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\vbc.rsp
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\Opgave1.dll.config
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\Opgave1.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\Opgave1.pdb
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\obj\Debug\Opgave1.csprojResolveAssemblyReference.cache
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\obj\Debug\Opgave1.dll
+C:\Users\Ducka\Dropbox\Programmering 2\Opgave1\Opgave1\obj\Debug\Opgave1.pdb
+C:\Users\Ducka\Dropbox\Programmering 2\opgave1\Opgave1\bin\EntityFramework.dll
+C:\Users\Ducka\Dropbox\Programmering 2\opgave1\Opgave1\bin\EntityFramework.SqlServer.dll
+C:\Users\Ducka\Dropbox\Programmering 2\opgave1\Opgave1\bin\System.Data.SQLite.dll
+C:\Users\Ducka\Dropbox\Programmering 2\opgave1\Opgave1\bin\System.Data.SQLite.EF6.dll
+C:\Users\Ducka\Dropbox\Programmering 2\opgave1\Opgave1\bin\System.Data.SQLite.Linq.dll
+C:\Users\Ducka\Dropbox\Programmering 2\opgave1\Opgave1\bin\EntityFramework.xml
+C:\Users\Ducka\Dropbox\Programmering 2\opgave1\Opgave1\bin\EntityFramework.SqlServer.xml
+C:\Users\Ducka\Dropbox\Programmering 2\opgave1\Opgave1\bin\System.Data.SQLite.xml
+C:\Users\Ducka\Dropbox\Programmering 2\opgave1\Opgave1\bin\System.Data.SQLite.dll.config
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\csc.exe
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\csc.exe.config
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\csc.rsp
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\csi.exe
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\csi.rsp
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\System.AppContext.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\vbc.exe
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\vbc.exe.config
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\vbc.rsp
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\Opgave1.dll.config
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\Opgave1.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\Opgave1.pdb
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\EntityFramework.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\EntityFramework.SqlServer.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\System.Data.SQLite.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\System.Data.SQLite.EF6.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\System.Data.SQLite.Linq.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\EntityFramework.xml
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\EntityFramework.SqlServer.xml
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\System.Data.SQLite.xml
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\System.Data.SQLite.dll.config
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\obj\Debug\Opgave1.csprojResolveAssemblyReference.cache
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\obj\Debug\Opgave1.dll
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\obj\Debug\Opgave1.pdb
