@@ -6,6 +6,7 @@
     <ul>
         <li><a href="Main.aspx">Main</a></li>
         <li><a href="Persons.aspx">Persons</a></li>
+        <li><a href="PersonXML.aspx">PersonXML</a></li>
         <li><a href="Products.aspx">Products</a></li>
     </ul>
 </div>

@@ -84,3 +84,4 @@ C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\System.Data.S
 C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\obj\Debug\Opgave1.csprojResolveAssemblyReference.cache
 C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\obj\Debug\Opgave1.dll
 C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\obj\Debug\Opgave1.pdb
+C:\Users\Ducka\Documents\Git\sde-programming-2\Opgave1\Opgave1\bin\MySql.Data.dll
